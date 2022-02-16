@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/nguemba_woerterbuch1/nguemba_woerterbuch1/app/src/main/res/drawable-v24/ic_baseline_arrow_upward_24.xml" value="0.13240740740740742" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/nguemba_woerterbuch1/nguemba_woerterbuch1/app/src/main/res/layout/fragment_konjugation.xml" value="0.1" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/nguemba_woerterbuch1/nguemba_woerterbuch1/app/src/main/res/layout/fragment_personalpronomen.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable-v24/chat_to.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/chat_me.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_dm.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_send.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/app_bar_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_forum_a1.xml" value="0.23125" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_foruma.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_neuanmelden.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_profil_seite.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/header.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/item_communication.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/menu/drawer_menu.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/menu/ober_menu.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/menu/unterbar_menu.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

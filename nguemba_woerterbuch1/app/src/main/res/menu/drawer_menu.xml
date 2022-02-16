@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/favoritenFragment"
+            android:title="@string/favoriten"
+            android:icon="@drawable/ic_favorit"/>
+
+        <item
+            android:id="@+id/kommentareFragment"
+            android:title="@string/kommentare"
+            android:icon="@drawable/ic_kommentar__1_"/>
+
+
+
+        <item
+            android:id="@+id/appTeilen"
+            android:title="@string/app_teilen"
+            android:icon="@drawable/ic_share"/>
+
+        <item
+            android:id="@+id/appBewerten"
+            android:title="@string/app_bewerten"
+            android:icon="@drawable/ic_bewertung"/>
+
+        <item
+            android:id="@+id/spenden"
+            android:title="@string/spenden"
+            android:icon="@drawable/ic_dollar_coins"/>
+
+        <item
+            android:id="@+id/hilfeFragment"
+            android:title="Hilfe &amp; Kontakt"
+            android:icon="@drawable/ic_hilfe_anrufen"/>
+
+    </group>
+
+        <item android:title="@string/grammatik"
+            >
+
+            <menu>
+                <group android:checkableBehavior="single" >
+                    <item
+                        android:id="@+id/personalpronomenFragment"
+                        android:title="Pronomen"/>
+                    <item
+                        android:id="@+id/konjugationFragment"
+                        android:title="Konjugation"/>
+                </group>
+            </menu>
+
+        </item>
+
+        <item
+            android:title="@string/info"
+            >
+
+            <menu>
+                <group android:checkableBehavior="single" >
+
+                    <item
+                        android:id="@+id/datenschutzerklaerungFragment"
+                        android:title="Datenschutzerklaerung"/>
+                    <item
+                        android:id="@id/nutzungsbedingungFragment"
+                        android:title="Nutzungsbedingungen"/>
+                    <item
+                        android:id="@+id/impressumFragment"
+                        android:title="Impressum"/>
+                    <item
+                        android:id="@+id/copyrightFragment"
+                        android:title="Copyright"/>
+
+                </group>
+            </menu>
+
+        </item>
+
+
+</menu>

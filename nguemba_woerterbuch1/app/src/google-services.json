@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153959295943",
+    "project_id": "guemba-bb3ff",
+    "storage_bucket": "guemba-bb3ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153959295943:android:3cf1d76af7663b5f9187e2",
+        "android_client_info": {
+          "package_name": "de.htw_berlin.nguembawrterbuch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153959295943-k2j24684k1ck4h3upga8s45i1kgpa430.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppekSayoLP-CvIMShoXFXBG7Mk5p8uig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153959295943-k2j24684k1ck4h3upga8s45i1kgpa430.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
